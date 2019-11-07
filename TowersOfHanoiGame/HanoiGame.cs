@@ -42,10 +42,8 @@ namespace TowersOfHanoiGame
                     break;
                 }
                 Console.WriteLine("輸入錯誤，請重新輸入:");
-
-
-
-
+                
+                            
 
             } while (true);
 
